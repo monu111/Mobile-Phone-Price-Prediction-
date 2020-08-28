@@ -21,8 +21,8 @@ and predicted  the price range of __test.csv__.
 
 | Sr.           | Model              | Accuracy(in %)  |
 | ------------- |:------------------:| ---------:|
-| 1.            | Logistic Regression|   95        |
-| 2.            | Decision Tree      |   87    |
+| 1.            | Logistic Regression|   95      |
+| 2.            | Decision Tree      |   87      |
 | 3.            | Random Forest      |    87     |
 | 4.            | Gaussian NB        |    83     |
-| 5.            |      SVM           |    95%    |
+| 5.            |      SVM           |    95    |
